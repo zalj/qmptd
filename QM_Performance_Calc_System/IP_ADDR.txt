@@ -1,0 +1,6 @@
+IPaddress=localhost
+port=12345
+服务器套接字配置文件
+等号两端不要加空格！！
+IPaddress:ip地址
+port:服务器监听端口号
